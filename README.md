@@ -3,6 +3,8 @@ This is all in one stop solution for Web development and topics to be covered in
 
 This will be the repository where i will manage this repo as a goldmine of WebDev, will make blogs on Github in this repo in order to explain all concepts in one go in just Readme file.
 
+Practice Projects Playlist from youtube: https://www.youtube.com/watch?v=cOUNOi297Mw&list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz&index=1
+
 -------------------------------------------------------------------------------------------------------------
 Topics to Revise that covered:
 1. HTML
