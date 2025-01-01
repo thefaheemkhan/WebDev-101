@@ -36,7 +36,7 @@ Introducing the ultimate web development course that’s built for everyone, fro
 
 
 
-### A Breakdown of What You'll Learn:
+# A Breakdown of What You'll Learn:
 
 ## Phase 0: Introduction to Web Development
 Start your journey by understanding what web development is, the various career paths it offers, including freelancing opportunities, and how you can grow in this field.
