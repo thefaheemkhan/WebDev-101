@@ -1,4 +1,4 @@
-# WebDev101
+# WebDev-101
 
 Introducing the ultimate web development course that’s built for everyone, from beginners to aspiring professionals
 
