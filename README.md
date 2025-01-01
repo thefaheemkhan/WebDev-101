@@ -2,6 +2,39 @@
 
 Introducing the ultimate web development course that’s built for everyone, from beginners to aspiring professionals
 
+## Sections to Study
+1. Before the web dev journey 
+2. Code file setup
+3. Basics of web dev
+4. Learn HTML
+5. Hands-on HTML Challanges
+6. Learn about CSS
+7. Hands-on CSS Challanges
+8. Learn Tailwind CSS
+9. Hands-on TailwindCSS Challanges
+10. Learn JS Foundation
+11. Hands-on JS Foundation Challenges
+12. Javascript - OOPS
+13. Hands-on Javascript - OOP Challanges
+14. Javascript in browser - DOM and BOM
+15. Advanced in JS
+16. Hands-on Advanced JS Challenges
+17. Projects in JS
+18. Git and Github | Master version control
+19. Journey of Backend with NodeJS and Projects
+20. Introduction to Databases
+21. Megaproject in backend with MongoDB
+22. MongoDB advance aggregation pipelines
+23. A mega course on React with projects - 10 projects
+24. Build a full stack QnA system with NextJS and Appwrite
+25. Deploy
+26. Building AI-powered SAAs with NextJS, Prisma, NeonDB
+27. Master SQL for web developers | MySQL and PostgreSQL
+28. Event-Driven Architecture - Full stack project
+29. Master Fastify framework by building a complete backend with Authentication
+30. Secure LMS with Payment gateway for senior developers
+
+
 
 ### A Breakdown of What You'll Learn:
 
