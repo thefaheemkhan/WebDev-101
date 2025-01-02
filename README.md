@@ -6,7 +6,7 @@ Introducing the ultimate web development course that’s built for everyone, fro
 1. Before the web dev journey  ✅
 2. Code file setup  ✅
 3. Basics of web dev  ✅
-4. Learn HTML
+4. Learn HTML  ✅
 5. Hands-on HTML Challanges
 6. Learn about CSS
 7. Hands-on CSS Challanges
